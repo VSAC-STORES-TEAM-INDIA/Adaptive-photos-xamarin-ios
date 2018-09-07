@@ -51,6 +51,6 @@
 		<string>Icon-Small-40@2x</string>
 	</array>
 	<key>CFBundleIdentifier</key>
-	<string>com.xamarin.AdaptivePhotos</string>
+	<string>com.vrushali.AdaptivePhotos</string>
 </dict>
 </plist>
