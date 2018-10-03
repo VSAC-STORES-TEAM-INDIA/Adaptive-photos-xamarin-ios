@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{12D9408A-2A17-4901-B20A-BD49353D65AF}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="AdaptivePhotos/Info.plist" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|iPhone" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.AdaptivePhotos PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget" />
+  <MultiItemStartupConfigurations />
+</Properties>

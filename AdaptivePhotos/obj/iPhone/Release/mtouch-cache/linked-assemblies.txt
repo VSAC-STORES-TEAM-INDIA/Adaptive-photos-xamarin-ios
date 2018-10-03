@@ -1,0 +1,5 @@
+RemoveDynamicRegistrar:true
+/Users/appcenterlogon/Documents/Vrushali/Twofaapp/repo/Adaptive-photos-xamarin-ios/AdaptivePhotos/bin/iPhone/Release/AdaptivePhotos.app:/Users/appcenterlogon/Documents/Vrushali/Twofaapp/repo/Adaptive-photos-xamarin-ios/AdaptivePhotos/obj/iPhone/Release/mtouch-cache/Link/AdaptivePhotos.exe
+/Users/appcenterlogon/Documents/Vrushali/Twofaapp/repo/Adaptive-photos-xamarin-ios/AdaptivePhotos/bin/iPhone/Release/AdaptivePhotos.app:/Users/appcenterlogon/Documents/Vrushali/Twofaapp/repo/Adaptive-photos-xamarin-ios/AdaptivePhotos/obj/iPhone/Release/mtouch-cache/Link/mscorlib.dll
+/Users/appcenterlogon/Documents/Vrushali/Twofaapp/repo/Adaptive-photos-xamarin-ios/AdaptivePhotos/bin/iPhone/Release/AdaptivePhotos.app:/Users/appcenterlogon/Documents/Vrushali/Twofaapp/repo/Adaptive-photos-xamarin-ios/AdaptivePhotos/obj/iPhone/Release/mtouch-cache/Link/Xamarin.iOS.dll
+/Users/appcenterlogon/Documents/Vrushali/Twofaapp/repo/Adaptive-photos-xamarin-ios/AdaptivePhotos/bin/iPhone/Release/AdaptivePhotos.app:/Users/appcenterlogon/Documents/Vrushali/Twofaapp/repo/Adaptive-photos-xamarin-ios/AdaptivePhotos/obj/iPhone/Release/mtouch-cache/Link/System.Core.dll

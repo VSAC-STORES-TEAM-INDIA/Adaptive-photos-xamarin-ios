@@ -24,6 +24,8 @@
     <MtouchI18n></MtouchI18n>
     <MtouchArch>x86_64</MtouchArch>
     <MtouchHttpClientHandler>NSUrlSessionHandler</MtouchHttpClientHandler>
+    <CodesignProvision>VSAC_twoFA_Cert_Oct_3rd</CodesignProvision>
+    <CodesignKey>iPhone Distribution: Girish Nedungadi (N7WR89677T)</CodesignKey>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|iPhoneSimulator' ">
     <DebugType>full</DebugType>

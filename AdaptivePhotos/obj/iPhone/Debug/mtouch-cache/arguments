@@ -1,0 +1,22 @@
+# Version: 11.12.0.4 (d15-7: 64fece5f)
+# [first argument, ignore] # --cache=/Users/appcenterlogon/Documents/Vrushali/Twofaapp/repo/Adaptive-photos-xamarin-ios/AdaptivePhotos/obj/iPhone/Debug/mtouch-cache
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.12.0.4/lib/mtouch/mtouch.exe \
+	--dev=/Users/appcenterlogon/Documents/Vrushali/Twofaapp/repo/Adaptive-photos-xamarin-ios/AdaptivePhotos/bin/iPhone/Debug/AdaptivePhotos.app \
+	--executable=AdaptivePhotos \
+	--debug \
+	--linksdkonly \
+	--sdkroot=/Applications/Xcode.app/Contents/Developer \
+	--sdk=11.4 \
+	--targetver=9.0 \
+	--aot-options=-O=-float32 \
+	--http-message-handler=NSUrlSessionHandler \
+	--abi=arm64 \
+	--symbollist=/Users/appcenterlogon/Documents/Vrushali/Twofaapp/repo/Adaptive-photos-xamarin-ios/AdaptivePhotos/obj/iPhone/Debug/mtouch-symbols.list \
+	--dsym=no \
+	-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll \
+	-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Core.dll \
+	-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.dll \
+	-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Xml.dll \
+	-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Xamarin.iOS.dll \
+	'--target-framework=Xamarin.iOS,v1.0' \
+	--root-assembly=/Users/appcenterlogon/Documents/Vrushali/Twofaapp/repo/Adaptive-photos-xamarin-ios/AdaptivePhotos/bin/iPhone/Debug/AdaptivePhotos.exe \
