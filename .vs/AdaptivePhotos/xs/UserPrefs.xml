@@ -9,6 +9,6 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.AdaptivePhotos PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget" />
+  <MonoDevelop.Ide.ItemProperties.AdaptivePhotos PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget" automaticSigning="False" />
   <MultiItemStartupConfigurations />
 </Properties>

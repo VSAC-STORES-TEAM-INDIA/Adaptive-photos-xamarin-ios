@@ -4,22 +4,13 @@
 /Users/appcenterlogon/Documents/Vrushali/Twofaapp/repo/Adaptive-photos-xamarin-ios/AdaptivePhotos/obj/iPhone/Release/actool/_BundleResourceWithLogicalName.items
 /Users/appcenterlogon/Documents/Vrushali/Twofaapp/repo/Adaptive-photos-xamarin-ios/AdaptivePhotos/obj/iPhone/Release/coremlc/_PartialAppManifest.items
 /Users/appcenterlogon/Documents/Vrushali/Twofaapp/repo/Adaptive-photos-xamarin-ios/AdaptivePhotos/obj/iPhone/Release/coremlc/_BundleResourceWithLogicalName.items
-/Users/appcenterlogon/Documents/Vrushali/Twofaapp/repo/Adaptive-photos-xamarin-ios/AdaptivePhotos/obj/iPhone/Release/optimized/Default-568h@2x.png
-/Users/appcenterlogon/Documents/Vrushali/Twofaapp/repo/Adaptive-photos-xamarin-ios/AdaptivePhotos/obj/iPhone/Release/optimized/Default.png
-/Users/appcenterlogon/Documents/Vrushali/Twofaapp/repo/Adaptive-photos-xamarin-ios/AdaptivePhotos/obj/iPhone/Release/optimized/Default@2x.png
-/Users/appcenterlogon/Documents/Vrushali/Twofaapp/repo/Adaptive-photos-xamarin-ios/AdaptivePhotos/obj/iPhone/Release/optimized/Icon-60@2x.png
 /Users/appcenterlogon/Documents/Vrushali/Twofaapp/repo/Adaptive-photos-xamarin-ios/AdaptivePhotos/obj/iPhone/Release/optimized/Icon-72.png
 /Users/appcenterlogon/Documents/Vrushali/Twofaapp/repo/Adaptive-photos-xamarin-ios/AdaptivePhotos/obj/iPhone/Release/optimized/Icon-72@2x.png
 /Users/appcenterlogon/Documents/Vrushali/Twofaapp/repo/Adaptive-photos-xamarin-ios/AdaptivePhotos/obj/iPhone/Release/optimized/Icon-76.png
 /Users/appcenterlogon/Documents/Vrushali/Twofaapp/repo/Adaptive-photos-xamarin-ios/AdaptivePhotos/obj/iPhone/Release/optimized/Icon-76@2x.png
 /Users/appcenterlogon/Documents/Vrushali/Twofaapp/repo/Adaptive-photos-xamarin-ios/AdaptivePhotos/obj/iPhone/Release/optimized/Icon-Small-40.png
-/Users/appcenterlogon/Documents/Vrushali/Twofaapp/repo/Adaptive-photos-xamarin-ios/AdaptivePhotos/obj/iPhone/Release/optimized/Icon-Small-40@2x.png
 /Users/appcenterlogon/Documents/Vrushali/Twofaapp/repo/Adaptive-photos-xamarin-ios/AdaptivePhotos/obj/iPhone/Release/optimized/Icon-Small-50.png
 /Users/appcenterlogon/Documents/Vrushali/Twofaapp/repo/Adaptive-photos-xamarin-ios/AdaptivePhotos/obj/iPhone/Release/optimized/Icon-Small-50@2x.png
-/Users/appcenterlogon/Documents/Vrushali/Twofaapp/repo/Adaptive-photos-xamarin-ios/AdaptivePhotos/obj/iPhone/Release/optimized/Icon-Small.png
-/Users/appcenterlogon/Documents/Vrushali/Twofaapp/repo/Adaptive-photos-xamarin-ios/AdaptivePhotos/obj/iPhone/Release/optimized/Icon-Small@2x.png
-/Users/appcenterlogon/Documents/Vrushali/Twofaapp/repo/Adaptive-photos-xamarin-ios/AdaptivePhotos/obj/iPhone/Release/optimized/Icon.png
-/Users/appcenterlogon/Documents/Vrushali/Twofaapp/repo/Adaptive-photos-xamarin-ios/AdaptivePhotos/obj/iPhone/Release/optimized/Icon@2x.png
 /Users/appcenterlogon/Documents/Vrushali/Twofaapp/repo/Adaptive-photos-xamarin-ios/AdaptivePhotos/obj/iPhone/Release/optimized/ratingActive.png
 /Users/appcenterlogon/Documents/Vrushali/Twofaapp/repo/Adaptive-photos-xamarin-ios/AdaptivePhotos/obj/iPhone/Release/optimized/ratingActive@2x.png
 /Users/appcenterlogon/Documents/Vrushali/Twofaapp/repo/Adaptive-photos-xamarin-ios/AdaptivePhotos/obj/iPhone/Release/optimized/ratingActiveCompact.png
@@ -34,3 +25,4 @@
 /Users/appcenterlogon/Documents/Vrushali/Twofaapp/repo/Adaptive-photos-xamarin-ios/AdaptivePhotos/obj/iPhone/Release/AdaptivePhotos.csproj.CoreCompileInputs.cache
 /Users/appcenterlogon/Documents/Vrushali/Twofaapp/repo/Adaptive-photos-xamarin-ios/AdaptivePhotos/obj/iPhone/Release/AdaptivePhotos.exe
 /Users/appcenterlogon/Documents/Vrushali/Twofaapp/repo/Adaptive-photos-xamarin-ios/AdaptivePhotos/obj/iPhone/Release/AdaptivePhotos.pdb
+/Users/appcenterlogon/Documents/Vrushali/Twofaapp/repo/Adaptive-photos-xamarin-ios/AdaptivePhotos/obj/iPhone/Release/ibtool/_BundleResourceWithLogicalName.items
