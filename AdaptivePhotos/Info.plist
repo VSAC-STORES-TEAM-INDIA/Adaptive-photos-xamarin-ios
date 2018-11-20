@@ -5,9 +5,9 @@
 	<key>CFBundleDisplayName</key>
 	<string>AdaptivePhotos</string>
 	<key>CFBundleShortVersionString</key>
-	<string>99.0</string>
+	<string>100.0</string>
 	<key>CFBundleVersion</key>
-	<string>99.0</string>
+	<string>100.0</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>ITSAppUsesNonExemptEncryption</key>
